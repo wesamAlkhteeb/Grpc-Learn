@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2ElH9OzIhlpkDRb9f8OpCLP6MyCN8cTw3HUsK72m3vBDdNfcX8LAGSVUw8i9BOiAOzK/tOCpba+uB7tfIVKKA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\grpc-test-pro\\GRPC.Client\\GRPC.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wesam\\.nuget\\packages\\calzolari.grpc.domain\\8.0.0\\calzolari.grpc.domain.8.0.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\calzolari.grpc.net.client.validation\\8.0.0\\calzolari.grpc.net.client.validation.8.0.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\google.protobuf\\3.25.2\\google.protobuf.3.25.2.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\grpc.core\\2.46.6\\grpc.core.2.46.6.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\grpc.core.api\\2.60.0\\grpc.core.api.2.60.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\grpc.net.client\\2.60.0\\grpc.net.client.2.60.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\grpc.net.common\\2.60.0\\grpc.net.common.2.60.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\grpc.tools\\2.61.0\\grpc.tools.2.61.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\wesam\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

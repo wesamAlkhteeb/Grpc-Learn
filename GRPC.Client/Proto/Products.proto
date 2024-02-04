@@ -1,0 +1,42 @@
+syntax = "proto3";
+option csharp_namespace = "grpc.test.pro";
+
+package products;
+
+service Products{
+	rpc GetProducts(Page) returns (ProductResponseList);
+	rpc GetProductById(Id) returns (ProductResponse);
+	rpc AddProduct(Product) returns (MessageStatus);
+	rpc UpdateProduct(ProductUpdate) returns (MessageStatus);
+	rpc DeleteProduct(Id) returns (MessageStatus);
+
+}
+
+message Page{
+	int32 page =1;
+}
+message Id{
+	int32 id=1;
+}
+
+message MessageStatus {
+	string message=1;
+}
+
+
+message ProductResponse {
+	int32 id =1 ;
+	string name =2;
+}
+
+message ProductResponseList{
+	repeated ProductResponse products=1;
+}
+
+message Product {
+	string name =1;
+}
+message ProductUpdate{
+	Product product =1 ;
+	Id id = 2;
+}
